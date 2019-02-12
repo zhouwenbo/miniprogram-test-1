@@ -3,12 +3,6 @@
     "pages/index/index",
     "pages/logs/logs"
   ],
-  "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle": "black"
-  },
   "tabBar": {
     "custom": true,
     "color": "#7A7E83",
@@ -29,5 +23,11 @@
         "text": "接口"
       }
     ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
   }
 }
